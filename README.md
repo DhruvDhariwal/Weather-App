@@ -92,12 +92,6 @@ Weather-App/
 
 Refer to each sub-project's README for detailed dependency installation.
 
-## 🖼️ Screenshots
-
-<!-- Add screenshots here -->
-![Weather App Main Screen](assets/screenshots/main.png)
-![Forecast View](assets/screenshots/forecast.png)
-
 ## 🧑‍💻 Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
@@ -107,10 +101,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 
