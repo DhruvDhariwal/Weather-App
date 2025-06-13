@@ -4,7 +4,6 @@
 [![CMake](https://img.shields.io/badge/build-CMake-brightgreen.svg)](https://cmake.org/)
 [![Dart](https://img.shields.io/badge/language-Dart-0175C2.svg)](https://dart.dev/)
 [![Swift](https://img.shields.io/badge/language-Swift-orange.svg)](https://swift.org/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ## 🌦️ Overview
 
